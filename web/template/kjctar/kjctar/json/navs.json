@@ -1,0 +1,41 @@
+[{
+	"title" : "我的消息",
+	"icon" : "icon-computer",
+	"href" : "page/main.html",
+	"spread" : false
+},{
+	"title" : "个人资料",
+	"icon" : "icon-computer",
+	"href" : "page/main.html",
+	"spread" : false
+},{
+	"title" : "历史足迹",
+	"icon" : "icon-text",
+	"href" : "page/news/newsList.html",
+	"spread" : false
+},{
+	"title" : "待完成任务",
+	"icon" : "&#xe64c;",
+	"href" : "page/links/linksList.html",
+	"spread" : false
+},{
+	"title" : "系统应用",
+	"icon" : "&#xe630;",
+	"href" : "",
+	"spread" : false,
+	"children" : [
+		{
+			"title" : "压扁小鸟",
+			"icon" : "&#xe61c;",
+			"href" : "page/bird/index.html",
+			"spread" : true
+		},
+		{
+			"title" : "在线画板",
+			"icon" : "&#xe609;",
+			"href" : "page/draw/index.html",
+			"spread" : false
+			
+		}
+	]
+}]
