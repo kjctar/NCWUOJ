@@ -21,4 +21,4 @@ cp -rf /home/judge/src/web /tmp
 ![反馈结果](https://raw.githubusercontent.com/kjctar/NCWUOJ/master/reimg/ac.png)
 
 
-## NCWUOJ查看链接：http://47.94.248.118/
+## NCWUOJ查看链接：http://www.ncwu.club/new/
