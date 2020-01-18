@@ -8,7 +8,7 @@
 cp -rf /home/judge/src/web /tmp
 3. 通过ftp软件将解压后的web 传到 /home/judge/src/ 下面
 4. cp /tmp/web/upload/* /home/judge/src/web/upload
-5. 配置 vi /home/judge/src/web/include/db_info.inc.php
+5. 配置 vi /home/judge/src/web/include/db_info.inc
 填写数据库用户名 和密码 ，要和你原来的oj一致
 #### 1. 前端用layui进行重做
 #### 2. 新增头像上传功能，支持gif，jpg，png，jpeg
